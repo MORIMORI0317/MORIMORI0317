@@ -5,6 +5,6 @@
 [IkenaiDev](https://discord.gg/X9BUF9A)  
 [TeamFelNull](https://discord.gg/vsFrsgY) (Japanese server)    
 
-# MOD distribution site  
+# My Mods
 [CurseForge](https://www.curseforge.com/members/morimori0317)  
 [Modrinth](https://modrinth.com/user/HDcqRPiv)  
