@@ -8,5 +8,9 @@
 [FelNull](https://discord.gg/vsFrsgY) (Japanese server)    
 
 # My Mods
-[CurseForge](https://www.curseforge.com/members/morimori0317)  
+[CurseForge](https://www.curseforge.com/members/morimori0317/projects)  
 [Modrinth](https://modrinth.com/user/HDcqRPiv)  
+
+# My IntelliJ IDEA Plugins
+[Minecraft NBS Player](https://plugins.jetbrains.com/plugin/20801-minecraft-nbs-player)  
+[Katyou Broken](https://plugins.jetbrains.com/plugin/19741-katyou-broken)
